@@ -14,3 +14,4 @@ Related published papers:
 
 - [A network-based computational model for creative knowledge discovery bridging human-computer interaction and data mining](https://asmedigitalcollection.asme.org/IDETC-CIE/proceedings-abstract/IDETC-CIE2017/58219/V007T06A001/258692)
 - [A data-driven text mining and semantic network analysis for design information retrieval](http://verification.asmedigitalcollection.asme.org/article.aspx?articleid=2650709&resultClick=1)
+- [An artificial intelligence based data-driven approach for design ideation](https://www.sciencedirect.com/science/article/pii/S1047320319300604)
