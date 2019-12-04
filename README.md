@@ -1,6 +1,6 @@
 # B-Link
-This is the code repository for [B-Link](https://github.com/FengShi0705/B-Link)
-
+This is the code repository for [B-Link](http://www.imperial.ac.uk/design-engineering/research/engineering-design/creativity/b-link/)
+Please Note: 1. For research purposes, references should be correctly put into your written work; 2. Agreement is required to be made from authors of this and [its original code repository](https://github.com/FengShi0705/B-Link); 3. The above applies to the original code repository](https://github.com/FengShi0705/B-Link)
 
 B-Link is a data-driven creativity engine, it supports user to explore knowledge and discover creativity. It is presented as a platform with well-designed interface and cutting-edge visualization technology, and driven by our advanced data mining algorithm. In the platform of B-Link, users are able to freely explore words and phrases within their knowledge, and results are shown in the forms of list and network. Benefiting from advanced network visualization technology, user is able to interact with the results shown in network, and discover knowledge associations and domains by operating in the functional panel. Currently, thanks to the data base which was built up by collecting key information from academic publication articles in Elsevier’s datasets, our engine has been able to discover associated words or phrases (could be academically) and paths between two words/phrases, and been able to classify network data into different clusters as well.
 
@@ -8,7 +8,7 @@ B-Link was developed by Feng Shi and Liuqing (Kevin) Chen, both of whom are Prof
 
 B-Link, linking your brain knowledge within just a blink!
 
-For more details, please visit our website: [B-Link](https://github.com/FengShi0705/B-Link)
+For more details, please visit our website: [B-Link](http://www.imperial.ac.uk/design-engineering/research/engineering-design/creativity/b-link/)
 
 Related published papers:
 
